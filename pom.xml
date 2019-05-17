@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>com.dongweima.common</groupId>
+  <artifactId>component</artifactId>
+  <packaging>pom</packaging>
+  <version>1.0-SNAPSHOT</version>
+  <modules>
+    <module>component-spring-data-jpa</module>
+    <module>component-disconf</module>
+    <module>component-datasource</module>
+    <module>component-log</module>
+    <module>component-office</module>
+    <module>component-tests</module>
+    <module>component-oss</module>
+    <module>component-trace</module>
+    <module>component-security</module>
+    <module>component-aop</module>
+    <module>component-exception</module>
+    <module>component-validator</module>
+    <module>component-collection</module>
+  </modules>
+
+
+</project>
